@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="algorithms_java" />
         <module name="algorithms4java" />
+        <module name="algorithms_java" />
       </profile>
     </annotationProcessing>
   </component>
